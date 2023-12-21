@@ -11,7 +11,7 @@ This repository contains my solutions of SPOJ problems. They are in C++ language
 | Problem ID | Problem Name | Question | Solution |
 | :--------: | :----------: | :------: | :------: |
 | EKO | Eko | [Question](https://www.spoj.com/problems/EKO) | [Solution](https://github.com/ShazidMashrafi/SPOJ-Solutions/tree/main/Codes/EKO)
-| AGGRCOW | Aggressive cows | [Question](https://www.spoj.com/problems/AGGRCOW) | [Solution]
+| AGGRCOW | Aggressive cows | [Question](https://www.spoj.com/problems/AGGRCOW) | [Solution](https://github.com/ShazidMashrafi/SPOJ-Solutions/tree/main/Codes/Aggressive%20cows)
 
 
 </div>
