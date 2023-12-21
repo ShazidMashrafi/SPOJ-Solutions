@@ -10,7 +10,7 @@ This repository contains my solutions of SPOJ problems. They are in C++ language
 
 | Problem Name | Question | Solution |
 | :----------: | :------: | :------: |
-| Eko | [Question](https://www.spoj.com/problems/EKO) | [Solution]
+| Eko | [Question](https://www.spoj.com/problems/EKO) | [Solution](https://github.com/ShazidMashrafi/SPOJ-Solutions/tree/main/Codes/EKO)
 
 
 </div>
