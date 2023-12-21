@@ -8,9 +8,10 @@ This repository contains my solutions of SPOJ problems. They are in C++ language
 
 ## Index 
 
-| Problem Name | Question | Solution |
-| :----------: | :------: | :------: |
-| Eko | [Question](https://www.spoj.com/problems/EKO) | [Solution](https://github.com/ShazidMashrafi/SPOJ-Solutions/tree/main/Codes/EKO)
+| Problem ID | Problem Name | Question | Solution |
+| :--------: | :----------: | :------: | :------: |
+| EKO | Eko | [Question](https://www.spoj.com/problems/EKO) | [Solution](https://github.com/ShazidMashrafi/SPOJ-Solutions/tree/main/Codes/EKO)
+| AGGRCOW | Aggressive cows | [Question](https://www.spoj.com/problems/AGGRCOW) | [Solution]
 
 
 </div>
