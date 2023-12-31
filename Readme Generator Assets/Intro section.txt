@@ -7,6 +7,6 @@ This repository contains my solutions of SPOJ problems. They are in C++ language
 <div align="center">
 
 ## Index 
-
+#### Sorted by Problem Code
 |  Index  |  Problem ID  | Problem Name | Question | Solution |
 | :-----: | :----------: | :----------: | :------: | :------: |
