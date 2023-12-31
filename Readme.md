@@ -14,7 +14,6 @@ This repository contains my solutions of SPOJ problems. They are in C++ language
 | 2 | EKO | Eko | [Question](https://www.spoj.com/problems/EKO) | [Solution](https://github.com/ShazidMashrafi/SPOJ-Solutions/tree/main/Codes/EKO%20-%20Eko)
 
 
-
 </div>
 
 ## 🚀 About Me
