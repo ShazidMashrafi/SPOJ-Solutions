@@ -13,6 +13,7 @@ This repository contains my solutions of SPOJ problems. They are in C++ language
 | 1 | AGGRCOW | Aggressive Cows | [Question](https://www.spoj.com/problems/AGGRCOW) | [Solution](https://github.com/ShazidMashrafi/SPOJ-Solutions/tree/main/Codes/AGGRCOW%20-%20Aggressive%20Cows)
 | 2 | EKO | Eko | [Question](https://www.spoj.com/problems/EKO) | [Solution](https://github.com/ShazidMashrafi/SPOJ-Solutions/tree/main/Codes/EKO%20-%20Eko)
 | 3 | NAKANJ | Minimum Knight moves | [Question](https://www.spoj.com/problems/NAKANJ) | [Solution](https://github.com/ShazidMashrafi/SPOJ-Solutions/tree/main/Codes/NAKANJ%20-%20Minimum%20Knight%20moves)
+| 4 | SBANK | Sorting Bank Accounts | [Question](https://www.spoj.com/problems/SBANK) | [Solution](https://github.com/ShazidMashrafi/SPOJ-Solutions/tree/main/Codes/SBANK%20-%20Sorting%20Bank%20Accounts)
 
 
 </div>
